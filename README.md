@@ -1,4 +1,6 @@
-# CS598-LMZ Spring 2026 HW1: Bash-Only nanocli
+# HW1: Bash-Only `nanocli`
+
+[CS598-LMZ Spring 2026](https://github.com/lingming/software-agents) 
 
 ## Environment setup
 
